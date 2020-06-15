@@ -1,12 +1,8 @@
-github.com/Liyanbing/calc v0.0.0-20180827002445-77daf576f976 h1:N0yT1TMtinYrLk2/ZnWafJtOMJRrfkSIsUC09MvlnLA=
-github.com/Liyanbing/calc v0.0.0-20180827002445-77daf576f976/go.mod h1:llzi/7BvJJGhHlcS3OnraGCc4i/OeufukI1lEUepIEI=
 github.com/alfredxing/calc v0.0.0-20180827002445-77daf576f976 h1:+jyVKPjl5Y39thM0ZlVrRqKjSO/Upr5tP9ZQGELv8gw=
 github.com/alfredxing/calc v0.0.0-20180827002445-77daf576f976/go.mod h1:/HQknSiD7YKT15DoHXuiXezQfNPBUm8PeqFaTxeA3HU=
-golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
-golang.org/x/crypto v0.0.0-20191206172530-e9b2fee46413 h1:ULYEB3JvPRE/IfO+9uO7vKV/xzVTO7XPAwm8xbf4w2g=
-golang.org/x/crypto v0.0.0-20191206172530-e9b2fee46413/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
+github.com/golang/crypto v0.0.0-20200323165209-0ec3e9974c59 h1:SfhWdB0cu+Ab3a34OEP8JDTMjHZOnDwi+wTRJvGCBR4=
+github.com/golang/crypto v0.0.0-20200323165209-0ec3e9974c59/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
 golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3/go.mod h1:t9HGtf8HONx5eT2rtn7q6eTqICYqUVnKs3thJo3Qplg=
-golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
 golang.org/x/sys v0.0.0-20190412213103-97732733099d h1:+R4KGOnez64A81RvjARKc4UT5/tI9ujCIVX+P5KiHuI=
 golang.org/x/sys v0.0.0-20190412213103-97732733099d/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
